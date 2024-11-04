@@ -23,7 +23,7 @@ Main Technologies: PyTorch, Lightning, Hydra, WanDB
    ```
 2. Change the directory:
    ```
-   cd Movies_Genre_Classification
+   cd MachineLearning
    ```
 3. Create a conda environment and install dependencies:
    ```
