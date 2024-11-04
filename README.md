@@ -19,7 +19,7 @@ Main Technologies: PyTorch, Lightning, Hydra, WanDB
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/minhminh2k/Movies_Genre_Classification.git
+   git clone https://github.com/TongMinhTri/MachineLearning.git
    ```
 2. Change the directory:
    ```
